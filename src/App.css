@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.links{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: start;
+}
 
 .App-logo {
   height: 40vmin;
